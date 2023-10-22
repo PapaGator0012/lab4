@@ -41,8 +41,16 @@ for (int k=3;k>-3;k--){
 }
 printf("\n");
 
+//task 3 
 
+for (int i=1;i<=n;i++){
+printf("%d",i);
+if(i!=n){
+    printf(", ");
+}
 
+}
+printf("\n");
 
 
 
