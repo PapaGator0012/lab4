@@ -31,5 +31,31 @@ int main(int argc,char **argv){
     i+=3;
  }
 printf("\n");
+
+
+// task 2 
+
+for (int k=3;k>-3;k--){
+    printf("%d",k);
+
+}
+printf("\n");
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 }
  
