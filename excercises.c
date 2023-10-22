@@ -53,8 +53,16 @@ if(i!=n){
 printf("\n");
 
 
+//task 4 
 
+for (int i=1;i<=n;i++){
+printf("%d",i*i);
+if(i!=n){
+    printf(", ");
+}
 
+}
+ printf("\n");
 
 
 
