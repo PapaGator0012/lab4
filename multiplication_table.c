@@ -19,8 +19,8 @@ int main()
  scanf("%d",&num);
 
  for (int i=0;i<=10;i++){
+  printf("%d x %d = %d",num,i,num*i);
 
-    
  }
 
 
