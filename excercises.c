@@ -65,7 +65,18 @@ if(i!=n){
  printf("\n");
 
 
+// task 5 
 
+int sum=0,j=1;
+while (j<=n){
+printf("%d",j);
+sum+=j;
+if ( j!=n){
+    printf(" + ");
+}
+;
+j++;
+}
 
 
 
